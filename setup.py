@@ -17,5 +17,6 @@ setup(
         'Pillow',
         'pylint',
         'pytesseract',
+        'opencv-python',
     ]  # UPDATE
 )
