@@ -29,7 +29,7 @@ def binarizeImage(pathToImage):
 
 def ocrProcessing(pathToImage):
     """
-    Processes an image of text into a string of that text
+    Processes an image of a receipt into the total price on that receipt
     """
     TOTAL = 0
     # ya it's hardcoded, need a prettier solution
